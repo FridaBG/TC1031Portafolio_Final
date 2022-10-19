@@ -1,0 +1,1 @@
+Uso: ./appInput.txt Output.txt
